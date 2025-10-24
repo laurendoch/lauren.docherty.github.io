@@ -5,6 +5,6 @@
 
   # laurendoch's Website
 
-  Visit **[laurendoch.github.io/lauren.docherty.github.io](https://laurendoch.github.io/lauren.docherty.github.io)** 🚀
+  Visit **[laurendoch.github.io](https://laurendoch.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
